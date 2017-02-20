@@ -37,6 +37,9 @@
 ```
 var canvas = document.getElementById("canvas");
 ``` 
+ ```
+  npm install -g cnpm
+ ```
 >表格
 
 | Tables                    | Are           | Cool       |
